@@ -1,10 +1,10 @@
-👋 Merhaba, ben Muhammet Taha YILMAZ
-🌱 Web, mobil ve nesne tabanlı kendi projelerimi geliştiriyor ve sizlerle paylaşıyorum.
+👋 Merhaba, ben Muhammet Taha YILMAZ <br>
+🌱 Web, mobil ve nesne tabanlı kendi projelerimi geliştiriyor ve sizlerle paylaşıyorum. <br>
 **Backend Developer | Android Meraklısı | Öğrenci**
 
 <br>
 
-🔭 Şu anda PixelCraft adında kendi mobil uygulamam üzerinde çalışıyorum.
+🔭 Şu anda PixelCraft adında kendi mobil uygulamam üzerinde çalışıyorum. <br>
 💬 Bana PixelCraft hakkında soru sorabilirsiniz.
 
 <br>
