@@ -1,6 +1,6 @@
 👋 Merhaba, ben Muhammet Taha YILMAZ <br>
 🌱 Web, mobil ve nesne tabanlı kendi projelerimi geliştiriyor ve sizlerle paylaşıyorum. <br>
-**Backend Developer | Android Meraklısı | Öğrenci**
+**Backend Developer | Öğrenci**
 
 <br>
 
