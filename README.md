@@ -1,11 +1,13 @@
-👋 Merhaba, ben Muhammet Taha YILMAZ <br>
-🌱 Web, mobil ve nesene tabanlı kendi projelerimi geliştiriyor ve sizlerle paylaşıyorum.<br>
-Backend Developer | Android Meraklısı | Öğrenci <br>
----
-🔭 Şu anda PixelCraft adında kendi mobil uygulamam üzerinde çalışıyorum. <br>
-💬 Bana PixelCraft hakkında soru sorabilirsiniz. <br>
-📫 Bana nasıl ulaşılır: Yilmazmuhammettaha9@gmail.com <br>
----
+👋 Merhaba, ben Muhammet Taha YILMAZ
+🌱 Web, mobil ve nesne tabanlı kendi projelerimi geliştiriyor ve sizlerle paylaşıyorum.
+**Backend Developer | Android Meraklısı | Öğrenci**
+
+<br>
+
+🔭 Şu anda PixelCraft adında kendi mobil uygulamam üzerinde çalışıyorum.
+💬 Bana PixelCraft hakkında soru sorabilirsiniz.
+
+<br>
 
 ### 🛠️ Kullandığım Teknolojiler
 
@@ -29,11 +31,23 @@ Backend Developer | Android Meraklısı | Öğrenci <br>
     <img src="https://img.shields.io/badge/Ajax-0070A3?style=for-the-badge&logo=javascript&logoColor=white" alt="Ajax"/>
   </a>
 </p>
----
-📬 Bana Ulaşın
+
+<br>
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JOUNN911&show_icons=true&theme=tokyonight&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub İstatistikleri"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOUNN911&layout=compact&theme=tokyonight&text_color=9f9f9f&bg_color=151515" alt="En Çok Kullanılan Diller"/>
+</p>
+
+<br>
+
+### 📫 Bana Ulaşın
 
 <p align="left">
-  <a href="mailto:yilmazmuhammettaha9@gmail.com">
+  <a href="mailto:Yilmazmuhammettaha9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
+  </p>
