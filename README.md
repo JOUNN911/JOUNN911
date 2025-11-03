@@ -29,3 +29,11 @@ Backend Developer | Android Meraklısı | Öğrenci <br>
     <img src="https://img.shields.io/badge/Ajax-0070A3?style=for-the-badge&logo=javascript&logoColor=white" alt="Ajax"/>
   </a>
 </p>
+---
+📬 Bana Ulaşın
+
+<p align="left">
+  <a href="mailto:yilmazmuhammettaha9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
