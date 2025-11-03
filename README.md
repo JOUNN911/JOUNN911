@@ -34,6 +34,14 @@
 
 <br>
 
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOUNN911&layout=compact&theme=tokyonight&text_color=9f9f9f&bg_color=151515" alt="En Çok Kullanılan Diller"/>
+</p>
+
+<br>
+
 ### 📫 Bana Ulaşın
 
 <p align="left">
