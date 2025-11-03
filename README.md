@@ -40,4 +40,7 @@
   <a href="mailto:Yilmazmuhammettaha9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  </p>
+  <a href="https://discord.com/users/jounin_s711">
+    <img src="https://img.shields.io/badge/Discord-jounin_s711-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
